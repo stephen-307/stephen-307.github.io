@@ -1,4 +1,5 @@
-a.link {
+.link {
+    cursor: pointer;
     display: block;
     border: 3px solid black;
     border-radius: 20px;
@@ -13,7 +14,7 @@ a.link {
     margin: 10px 0;
   
 }
-a.link:hover {
+.link:hover {
    background-color: rgba(237, 222, 222, 0.938);
 }
 img {
